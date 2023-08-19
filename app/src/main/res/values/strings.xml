@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buscador de Coincidencias de Texto</string>
+    <string name="texto_Boton_Comparador">Comparar</string>
+    <string name="texto_titulo_App">Buscador de Coincidencias de Texto</string>
+    <string name="indicacion_Frase_uno">Por favor, ingresa una frase o texto.</string>
+    <string name="incicacion_Frase_Dos">Por favor, ingresa otra frase o texto.</string>
+</resources>
